@@ -325,11 +325,7 @@
     $_big_gradient_size: $_big_gradient_length 100%;
   }
 
-  background-image: -gtk-gradient(radial,
-                                $_position, 0,
-                                $_position, 0.6,
-                                from(transparentize($c, 0.8)),
-                                to(transparentize($c, 1)));
+  background-image: transparent; // removes the overshoot effect
 
   background-size: $_big_gradient_size;
   background-repeat: no-repeat;
