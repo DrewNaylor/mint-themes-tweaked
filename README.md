@@ -1,7 +1,7 @@
 # mint-themes-tweaked
 The Linux Mint themes, but slightly tweaked for improved titlebar contrast and no over/undershoot.
 
-This is a fork of the [linuxmint/mint-themes](https://github.com/linuxmint/mint-themes) GitHub repository. Most of the changes I'll be doing here are as follows, copied from my old fork of a different Mint-Y theme repository:
+This is a fork of the [linuxmint/mint-themes](https://github.com/linuxmint/mint-themes) GitHub repository. Most of the changes I'll be doing here are as follows, copied from [my old fork](https://github.com/DrewNaylor/mint-y-theme-tweaked) of a different Mint-Y theme repository:
 
 - Most changes will be done with the Mint-Y theme for GTK3 and Metacity, but some other themes may be worked on, too.
 - The "undershoot" and "overshoot" effects have been hidden.
