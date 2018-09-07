@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Mint-Y
-Comment=A flat theme with transparent elements
+Name=Mint-Y-TweakedLight
+Comment=The Mint-Y theme, but slightly tweaked for improved titlebar contrast and no over/undershoot.
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Mint-Y
-MetacityTheme=Mint-Y
+GtkTheme=Mint-Y-TweakedLight
+MetacityTheme=Mint-Y-TweakedLight
 IconTheme=Mint-Y
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
