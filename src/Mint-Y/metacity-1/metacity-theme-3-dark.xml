@@ -10,11 +10,11 @@
 
 <!-- meaningfull constants -->
 
-<constant name="C_title_focused" value="rgba(207,207,207,1.0)" />
+<constant name="C_title_focused" value="rgba(255,255,255,1.0)" />
 <constant name="C_title_unfocused" value="rgba(207,207,207,1.0)" />
 
 <constant name="C_wm_bg_focused" value="rgba(47,47,47,1.0)" />
-<constant name="C_wm_bg_unfocused" value="rgba(47,47,47,1.0)" />
+<constant name="C_wm_bg_unfocused" value="rgba(47,47,47,0.5)" />
 
 <constant name="C_wm_border" value="rgba(47,47,47,1.0)" />
 
