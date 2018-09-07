@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Mint-Y-Darker
-Comment=A flat theme with transparent elements and dark menu and titlebars
+Name=Mint-Y-TweakedDarker
+Comment=The Mint-Y theme with dark menu and titlebars, but slightly tweaked for improved titlebar contrast and no over/undershoot.
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Mint-Y-Darker
-MetacityTheme=Mint-Y-Dark
+GtkTheme=Mint-Y-TweakedDarker
+MetacityTheme=Mint-Y-TweakedDark
 IconTheme=Mint-Y
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
